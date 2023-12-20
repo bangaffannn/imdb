@@ -10,5 +10,5 @@ export default function Providers({ children }) {
     {children}
     </div>
      
-    </ThemeProvider>
-};
+    </ThemeProvider>;
+}
