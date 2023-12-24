@@ -8,5 +8,8 @@ module.exports = {
     experimental: {
       serverComponents: false,
     },
+    images:{
+      domains: ["image.tmdb.org"],
+    },
   };
   
